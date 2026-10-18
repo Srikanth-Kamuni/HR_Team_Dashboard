@@ -69,6 +69,13 @@ HR teams need a consistent view of employee status, workforce movement and compo
 - **Privacy:** Do not publish the original workbook without authorization. It contains employee names, IDs, dates of birth, reporting-manager names and other personal details. Replace with synthetic or properly anonymized data before public release.
 - The workbook is `.xlsm`; review its macros before distributing it.
 
+- ## Dashboard Preview
+
+### 1. Summary Dashboard
+
+##[Bank Loan Summary Dashboard]<img width="839" height="428" alt="HR_Team_dashboard" src="https://github.com/user-attachments/assets/ee3777fb-d200-4fb7-9bf3-9cc194e09616" />
+
+
 ## Tools
 Microsoft Excel, PivotTables / pivot-style calculations, dashboard visualizations, macro-enabled workbook.
 
